@@ -28,7 +28,7 @@
                 </form>
             </div>
 
-            <div class="auth-buttons">
+            <!-- <div class="auth-buttons">
                 @auth
                     <a href="{{ route('admin.dashboard') }}" class="btn btn-outline">
                         <i class="fas fa-cog"></i> Admin Panel
@@ -44,7 +44,7 @@
                         <i class="fas fa-sign-in-alt"></i> Admin Login
                     </a>
                 @endauth
-            </div>
+            </div> -->
         </div>
     </nav>
 

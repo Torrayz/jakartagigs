@@ -126,7 +126,7 @@
 @endif
 
 <!-- Newsletter -->
-<section class="section">
+<!-- <section class="section">
     <div class="newsletter">
         <h3>Stay in the Loop</h3>
         <p>Get exclusive access to the latest music news, concert announcements, and artist interviews delivered straight to your inbox.</p>
@@ -135,5 +135,5 @@
             <button type="submit">Subscribe</button>
         </form>
     </div>
-</section>
+</section> -->
 @endsection
